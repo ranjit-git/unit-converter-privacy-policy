@@ -1,6 +1,6 @@
 # Privacy Policy for Unit Converter App
 
-**Effective date:** May 31, 2026
+**Effective date:** June 20, 2026
 
 This Privacy Policy explains how Unit Converter App (the "App") handles information when you use the App on Android or iOS.
 
